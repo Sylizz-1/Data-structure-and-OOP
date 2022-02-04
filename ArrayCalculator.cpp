@@ -22,7 +22,7 @@ class Array {
         }
 };
 int main() {
-    Array ar;
+    Array ar,sum;
     cout<<"Total of array: "<<ar.sumOFArraY()<<endl;
     return 0;
 }
